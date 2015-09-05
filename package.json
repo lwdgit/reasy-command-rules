@@ -1,0 +1,16 @@
+{
+  "name": "reasy-command-rules",
+  "version": "1.0.0",
+  "description": "List exists rules!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "keywords": [
+    "reasy",
+    "command"
+  ],
+  "author": "lwdgit",
+  "license": "MIT"
+}
